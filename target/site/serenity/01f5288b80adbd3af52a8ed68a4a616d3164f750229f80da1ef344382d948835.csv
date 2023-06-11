@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Registrar producto","Agregar producto al carrito despues de iniciar sesión","SUCCESS","2023-06-11T09:48:03.691-05:00[America/Bogota]","0.0","12.4"
+"Chekout producto","Gestionar la compra del producto","SUCCESS","2023-06-11T16:03:49.805-05:00[America/Bogota]","0.0","21.8"
+"Loguearse en la pagina de prueba","Login","SUCCESS","2023-06-10T22:50:26.869-05:00[America/Bogota]","0.0","10.63"
