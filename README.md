@@ -13,7 +13,7 @@ Antes de ejecutar las pruebas automatizadas, asegúrate de tener instalados los 
 - Serenity BDD
 - Chromedriver 
 
-## Dependecias 
+## Dependencias 
 - Serenity Core: 2.6.0
 - Serenity Cucumber: 2.6.0
 - JUnit: 4.13.2
