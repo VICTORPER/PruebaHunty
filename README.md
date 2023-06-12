@@ -21,6 +21,8 @@ Antes de ejecutar las pruebas automatizadas, asegúrate de tener instalados los 
 - SLF4J Simple: 2.0.0-alpha4
 - Apache POI: 5.0.0
 
+#Patron de diseño
+- Page Object Model (POM)
 
 ## Configuración
 
